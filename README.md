@@ -1,5 +1,5 @@
-# Your Project's Title...
-EDS site - Ina's Playground
+# EDS site - Ina's Playground
+
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.aem.page/
